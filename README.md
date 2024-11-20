@@ -5,10 +5,11 @@
   <li>Experienced with Android and Hybrid Development</li>
 </ul>
 
-<div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=haaweejee&count_private=true&show_icons=true&theme=prussian" width="400"><br /> <br />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haaweejee&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
+<div style="text-align: center">  <img src="https://github-readme-stats.vercel.app/api?username=rezekoard&count_private=true&show_icons=true&theme=prussian" width="400"><br /> <br />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezekoard&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></div>
 
 #### Interested in:
+<!--
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
